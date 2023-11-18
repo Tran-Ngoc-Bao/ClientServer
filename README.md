@@ -3,7 +3,7 @@
 <ul>
   <li>Chúng ta cần phải xây dựng các interface giữa các thành phần của hệ thống.</li>
   <li>Chúng ta sẽ xây dựng một mô hình client-server đơn giản,ở đó thì client sẽ gửi một chuỗi số lên cho server. Server sẽ sắp xếp những số nhận được với việc sử dụng phương thức sort được khai báo trong interface.</li>
-</ul
+</ul>
   
 ## Demo RabbitMQ
 <ul>
